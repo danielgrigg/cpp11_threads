@@ -11,8 +11,7 @@ maps etc..
 Building
 ========
 
-cmake .
-make && ./cpp11_threads
+cmake . && make && ./cpp11_threads
 
 Notes
 ======
